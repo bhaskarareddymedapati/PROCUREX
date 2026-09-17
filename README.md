@@ -6,9 +6,9 @@ PROCUREX is a working procurement auditing prototype that analyzes tenders, bids
 
 ## Live Prototype
 
-Add the team's deployed prototype URL here:
 
-`YOUR-LIVE-PROTOTYPE-LINK`
+
+`https://case-hunt-1.preview.emergentagent.com/`
 
 ## Core Features
 
