@@ -1,0 +1,21 @@
+PROCUREX
+|
+|-- frontend/                 React + TypeScript interface
+|   |-- src/
+|   |   |-- main.tsx          Dashboard, cases, analytics and UI logic
+|   |   `-- style.css         Application styling
+|   |-- index.html
+|   `-- package.json
+|
+|-- backend/                  FastAPI + anomaly detection
+|   |-- main.py               API, scoring and detection engine
+|   `-- requirements.txt
+|
+|-- data/                     Synthetic demonstration data
+|   `-- procurement_anomaly_investigation_cases.csv
+|
+|-- README.md                 Project documentation
+|-- .gitignore
+|-- START_BACKEND.bat         Windows backend launcher
+|-- START_FRONTEND.bat        Windows frontend launcher
+`-- PROJECT_STRUCTURE.txt     Project map
